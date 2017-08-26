@@ -1,2 +1,2 @@
 # MT
-Codecademy - Build Websites from Scratch - week 4 project - My Times: Flexbox, CSS positioning.
+Codecademy - Build Websites from Scratch - newspaper page project - My Times: Flexbox, CSS positioning.
